@@ -1,0 +1,6 @@
+<?php
+
+$autoload = [
+	'helper',
+	'database'
+];
